@@ -1,8 +1,8 @@
-# WinWin-Lottery
+# LX_lottery
 
 ## Overview
 
-**WinWin-Lottery** is a no-loss lottery platform where users stake their tokens to earn yield over time. The yield generated from staked tokens is pooled and distributed as rewards without the risk of losing the initial deposit. Participants can win rewards in daily, weekly, and monthly lotteries, creating a sustainable and user-friendly way to earn while maintaining full control over their deposits.
+**LX-Lottery** is a no-loss lottery platform where users stake their tokens to earn yield over time. The yield generated from staked tokens is pooled and distributed as rewards without the risk of losing the initial deposit. Participants can win rewards in daily, weekly, and monthly lotteries, creating a sustainable and user-friendly way to earn while maintaining full control over their deposits.
 
 ## Key Features
 
@@ -75,7 +75,7 @@
    The interest generated from staked assets is pooled into prize categories (daily, weekly, and monthly). Users automatically participate by staking tokens.
 
 4. **Withdraw at Any Time**:  
-   Users can withdraw their initial deposit anytime, regardless of whether they won rewards.
+   Users can wwWinWin-Lorinitialinitial deposit anytime, regardless of whether they won rewards.
 
 ## Requirements
 
